@@ -15,7 +15,7 @@ def description() -> String[1000]:
 
 @external
 @view
-def decimals() -> uint256:
+def version() -> uint256:
     return 0
 
 
